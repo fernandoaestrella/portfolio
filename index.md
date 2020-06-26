@@ -2,8 +2,11 @@
 
 ---
 
-[Skunworks Course Scheduler](https://github.com/fernandoaestrella/nlp-final-project)
+[Skunworks Course Scheduler]()
 
+My contributions:
+
+---
 
 [Music Learning website](https://github.com/jufer002/clef)
 
@@ -12,6 +15,8 @@ My contributions:
 I focused mainly on search, progress report, autoscroll and the course display page.
 
 <img src="images/clef.png?raw=true"/>
+
+---
 
 [Facebook Post Generator](https://github.com/fernandoaestrella/nlp-final-project)
 
