@@ -8,17 +8,19 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Facebook Post Generator](https://github.com/fernandoaestrella/nlp-final-project)
+
+Natural Language Processing project done as a team where we applied Machine Learning to determine 
 
 ---
 [RoboCup Agent in C Sharp](https://github.com/fernandoaestrella/RoboCup-Agent-in-CSharp)
 
-Robocup 2D is a simulation that pits teams of AI writers to create the brains of a robotic agent playing soccer.
+Robocup 2D is a worlwide competition that pits teams of AI writers to create the brains of a robotic agent playing soccer.
 
-This was a proyect we started in college to practice UDP connections. So far it starts a connection with the server, starts a player, interprets the whole received string (only the "see" string), determines the position of the player with a simple method based on the closest flag and knowledge of its position, and with that information either moves to a desired position, waits for an amount of time determined by the user, and asks for another position, or closes in on the ball and kicks it to the goal (assuming they were both being seen).
+This was a proyect we started in college to practice UDP connections and AI. This one specifically only starts a connection with the server, starts a player, interprets the whole received string (only the "see" string), determines the position of the player with a simple method based on the closest flag and knowledge of its position, and with that information either moves to a desired position, waits for an amount of time determined by the user, and asks for another position, or closes in on the ball and kicks it to the goal (assuming they were both being seen).
 
 My contributions:
+
 Aproximately the later half of the code located here https://github.com/fernandoaestrella/RoboCup-Agent-in-CSharp/blob/master/RoboCup%20Agent/RoboCup%20Agent/Program.cs
 
 <img src="images/robocup.jpg?raw=true"/>
@@ -29,13 +31,24 @@ Aproximately the later half of the code located here https://github.com/fernando
 
 [SlideIn](https://github.com/fernandoaestrella/SlideIn)
 A game in which you summon units in a table top gameboard. The goal is to slide your units into the opponent's goal tile. You can also remove a unit by placing yours in a specific way.
-<img src="images/slide-in-image.png?raw=true"/>
+
+My contributions:
+
+All code written by me.
+
 To play:
+
+Go to https://github.com/fernandoaestrella/SlideIn/blob/master/SlideIn.exe and download it.
 
 To see code:
 
+Go to https://github.com/fernandoaestrella/SlideIn/tree/master/Assets and look at the C Sharp files.
+
+<img src="images/slide-in-image.png?raw=true"/>
+
 ---
 [Improved Pong](http://example.com/)
+
 Some improvements made to a Pong/Break Out basic game like:
 - Ability to shoot multiple shots
 - Paddle freezes for some time when hitting the ball
@@ -44,9 +57,5 @@ Some improvements made to a Pong/Break Out basic game like:
 - Score per time calculation
 - Ball accelerates after hitting paddle
 - Ball goes redder the faster it goes
-
-To play:
-
-To see code:
 
 ---
