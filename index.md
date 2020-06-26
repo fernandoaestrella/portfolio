@@ -4,13 +4,17 @@
 
 ---
 
-[Skunworks Course Scheduler](https://github.com/brandeis-skunkworks/course-scheduling/tree/master/Vagrant)
+[Skunworks Course Scheduler](https://github.com/brandeis-skunkworks/course-scheduling/tree/master/Vagrant) (Jun 2019 - Present)
+
+Brandeis Skunkworks is a student organization focused on providing support, mentorship and experience to student groups interested in developing ideas that mainly improve the campus.
+
+Course Scheduler is an application that will allow department coordinators to more easily schedule classes in pre-defined time slots while taking into account many diverse contraints set by professors and by the nature of the classes.
 
 My contributions:
 
 I went through all beginning stages of the project, from ideation, to team building, to planning.
 
-This state machine shows the different states the client needed the application to be in while scheduling.
+This state machine shows the different states the client needed the application to be in while manually scheduling.
 
 <img src="images/scheduler-state-machine.jpg?raw=true"/>
 
@@ -30,9 +34,9 @@ Due to the COVID-19 pandemic, many team members had to abruptly return back home
 
 ---
 
-[Clef: A music learning website](https://github.com/jufer002/clef)
+[Clef: A music learning website](https://github.com/jufer002/clef) (Spring of 2020)
 
-In a  team of 4, we created Clef in Ruby on Rabils. Clef is an online platform for people passionate about music and learning it. Users can create courses with sections and sections with lessons. They can upload videos or images to a lesson. They can also tag lessons, search for courses and lessons, autoscroll a lesson, and keep track of their progress in a course.
+In a  team of 4, we created Clef in Ruby on Rails. Clef is an online platform for people passionate about music and learning it. Users can create courses with sections and sections with lessons. They can upload videos or images to a lesson. They can also tag lessons, search for courses and lessons, autoscroll a lesson, and keep track of their progress in a course.
 
 My contributions:
 
@@ -44,7 +48,7 @@ I focused mainly on search, progress report, autoscroll and the course display p
 
 ---
 
-[Facebook Post Generator](https://github.com/fernandoaestrella/nlp-final-project)
+[Facebook Post Generator](https://github.com/fernandoaestrella/nlp-final-project) (Fall of 2019)
 
 Natural Language Processing project done in Python as a team where we applied Machine Learning to determine the sentiment a given article might carry and then created a possible response someone could have to it mixing a summary of the article, the sentiment, and some randomization.
 
@@ -53,7 +57,7 @@ My contributions:
 Mainly adapted base sentiment analysis code to work with the possible input articles we would be receiving, among other tasks. Experimented with all models and features extracted and decided on the most effective one. Found here: [Testing diverse classifier models and feature extractors](https://github.com/fernandoaestrella/nlp-final-project/blob/master/all_together_e.py).
 
 ---
-[RoboCup Agent in C Sharp](https://github.com/fernandoaestrella/RoboCup-Agent-in-CSharp)
+[RoboCup Agent in C Sharp](https://github.com/fernandoaestrella/RoboCup-Agent-in-CSharp) (2015)
 
 Robocup 2D is a worlwide competition that pits teams of AI writers to create the brains of a simulated robotic agent playing soccer.
 
@@ -73,7 +77,7 @@ We did not create the graphical simulation shown below. It is used to visualize 
 
 ---
 
-[SlideIn](https://github.com/fernandoaestrella/SlideIn)
+[SlideIn](https://github.com/fernandoaestrella/SlideIn) (Spring of 2020)
 
 A game made in Unity in which the player summons units in a table top gameboard. The goal is to slide your units into the opponent's goal tile. You can also remove an opponent's unit by placing 3 of yours in front of it.
 
@@ -92,7 +96,7 @@ Go to [Assets](https://github.com/fernandoaestrella/SlideIn/tree/master/Assets) 
 <img src="images/slide-in-image.png?raw=true"/>
 
 ---
-[Improved Pong](http://example.com/)
+[Improved Pong](http://example.com/) (Spring of 2019)
 
 Some improvements made to a Pong-like game concept (single player Pong with high score count), like:
 - Ability to shoot multiple shots
