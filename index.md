@@ -40,6 +40,10 @@ I focused mainly on search, progress report, autoscroll and the course display p
 
 <img src="images/clef.png?raw=true"/>
 
+<img src="images/course-create.png?raw=true"/>
+
+<img src="images/user-page.png?raw=true"/>
+
 ---
 
 [Facebook Post Generator](https://github.com/fernandoaestrella/nlp-final-project)
