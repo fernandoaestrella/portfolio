@@ -8,11 +8,13 @@
 
 My contributions:
 
-[Front End communicating with Back End](https://github.com/brandeis-skunkworks/course-scheduling/blob/manual-scheduling-front-end/scheduling-app/src/App.js)
+I went through all beginning stages of the project, from ideation, to team building, to planning.
 
-[Back End communicating with Front End](https://github.com/brandeis-skunkworks/course-scheduling/blob/manual-scheduling-front-end/api/app.js)
+This state machine shows the different states the client needed the application to be in while scheduling.
 
-I lead the team to develop the back end pages displayed below. I am coding the Back End so that a Node.js server connects with the database and communicates with a server running React to handle the Front End.
+<img src="images/scheduler-state-machine.jpg?raw=true"/>
+
+I then lead the team to develop the front end pages displayed below.
 
 <img src="images/schedulerA.png?raw=true"/>
 
@@ -20,7 +22,11 @@ I lead the team to develop the back end pages displayed below. I am coding the B
 
 <img src="images/scheduler-home.png?raw=true"/>
 
-<img src="images/scheduler-state-machine.jpg?raw=true"/>
+Due to the COVID-19 pandemic, many team members had to abruptly return back home. I am coding the Back End so that a Node.js server connects with the database and communicates with the Front End through a server running React, as shown in the following code:
+
+[Front End communicating with Back End](https://github.com/brandeis-skunkworks/course-scheduling/blob/manual-scheduling-front-end/scheduling-app/src/App.js)
+
+[Back End communicating with Front End](https://github.com/brandeis-skunkworks/course-scheduling/blob/manual-scheduling-front-end/api/app.js)
 
 ---
 
