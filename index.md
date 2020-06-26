@@ -2,9 +2,17 @@
 
 ---
 
-[Skunworks Course Scheduler]()
+[Skunworks Course Scheduler](https://github.com/brandeis-skunkworks/course-scheduling/tree/master/Vagrant)
 
 My contributions:
+
+I lead the team to develop the back end pages displayed below.
+
+<img src="images/schedularA.jpg?raw=true"/>
+
+<img src="images/schedulerB.jpg?raw=true"/>
+
+I am coding the back end in Node.js to bring it all together and deliver.
 
 ---
 
