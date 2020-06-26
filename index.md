@@ -98,13 +98,13 @@ Go to [Assets](https://github.com/fernandoaestrella/SlideIn/tree/master/Assets) 
 ---
 [Actually Exciting Pong](https://github.com/fernandoaestrella/Actually-Exciting-Pong) (Spring of 2019)
 
-Variation of Pong with:
+Variation of Pong with following features:
 - Ability to shoot multiple shots
 - Paddle freezes for some time when hitting the ball
 - Paddle gets smaller after every hit
 - Shot accelerates or slows ball depending on whether the ball was approaching or going away
 - Score per time calculation
 - Ball accelerates after hitting paddle
-- Ball goes redder the faster it goes
+- Ball goes more red the faster it goes
 
 ---
