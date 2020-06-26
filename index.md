@@ -20,13 +20,13 @@
 ### Games
 
 - [SlideIn](https://github.com/fernandoaestrella/SlideIn)
-To play:
+<br>To play:
 
 To see code:
 
 
 - [Improved Pong](http://example.com/)
-To play:
+<br>To play:
 
 To see code:
 
