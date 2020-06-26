@@ -12,7 +12,7 @@ I lead the team to develop the back end pages displayed below.
 
 <img src="images/schedulerB.jpg?raw=true"/>
 
-I am coding the back end in Node.js to bring it all together and deliver.
+I am coding the back end in Node.js to interface with the database, bring it all together and deliver.
 
 ---
 
