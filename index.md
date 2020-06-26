@@ -19,14 +19,14 @@
 
 ### Games
 
-- [SlideIn](https://github.com/fernandoaestrella/SlideIn)
-
+[SlideIn](https://github.com/fernandoaestrella/SlideIn)
+<img src="images/image.jpg?raw=true"/>
 To play:
 
 To see code:
 
-
-- [Improved Pong](http://example.com/)
+---
+[Improved Pong](http://example.com/)
 
 To play:
 
