@@ -1,6 +1,5 @@
 <div align="center"> <h1> Portfolio <h1> </div>
 
-
 ---
 
 [Skunworks Course Scheduler](https://github.com/brandeis-skunkworks/course-scheduling/tree/master/Vagrant)
