@@ -36,7 +36,7 @@ In a  team of 4, we created Clef in Ruby on Rabils. Clef is an online platform f
 
 My contributions:
 
-I focused mainly on search, progress report, autoscroll and the course display page (some shown below).
+I focused mainly on search, progress report, autoscroll and the course display page (some shown below). [Course viewer](https://github.com/jufer002/clef/blob/master/app/views/courses/_course_viewer.html.erb)
 
 <img src="images/clef.png?raw=true"/>
 
