@@ -47,7 +47,7 @@ My contributions:
 
 Aproximately the later half of the code located here: [Program.cs](https://github.com/fernandoaestrella/RoboCup-Agent-in-CSharp/blob/master/RoboCup%20Agent/RoboCup%20Agent/Program.cs)
 
-We did not create the graphical simulation shown below.
+We did not create the graphical simulation shown below. It is used to visualize the behavior of the simulation.
 
 <img src="images/robocup.jpg?raw=true"/>
 
