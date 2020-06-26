@@ -2,12 +2,6 @@
 
 ---
 
-### Proyects
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 [Facebook Post Generator](https://github.com/fernandoaestrella/nlp-final-project)
 
 Natural Language Processing project done as a team where we applied Machine Learning to determine the sentiment a given article might carry and then created a possible response someone could have to it.
