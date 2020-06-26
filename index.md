@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Proyects
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -12,8 +12,17 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[RoboCup Agent in C Sharp](https://github.com/fernandoaestrella/RoboCup-Agent-in-CSharp)
+Robocup 2D is a simulation that pits teams of AI writers to create the brains of a robotic agent playing soccer.
+
+This was a proyect we started in college to practice UDP connections.
+
+So far it starts a connection with the server, starts a player, interprets the whole received string (only the "see" string), determines the position of the player with a simple method based on the closest flag and knowledge of its position, and with that information either moves to a desired position, waits for an amount of time determined by the user, and asks for another position, or closes in on the ball and kicks it to the goal (assuming they were both being seen).
+
+My contributions:
+Aproximately the later half of the code located here https://github.com/fernandoaestrella/RoboCup-Agent-in-CSharp/blob/master/RoboCup%20Agent/RoboCup%20Agent/Program.cs
+
+<img src="images/robocup.jpg?raw=true"/>
 
 ---
 
