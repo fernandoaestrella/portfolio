@@ -30,7 +30,9 @@ Due to the COVID-19 pandemic, many team members had to abruptly return back home
 
 ---
 
-[Music Learning website](https://github.com/jufer002/clef)
+[Clef: A music learning website](https://github.com/jufer002/clef)
+
+In a  team of 4, we created Clef in Ruby on Rabils. Clef is an online platform for people passionate about music and learning it. Users can create courses with sections and sections with lessons. They can upload videos or images to a lesson. They can also tag lessons, search for courses and lessons, autoscroll a lesson, and keep track of their progress in a course.
 
 My contributions:
 
