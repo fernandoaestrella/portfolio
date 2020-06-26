@@ -1,4 +1,4 @@
-<div align="center"> <h1> Portfolio </h1> </div>
+<h1> Portfolio </h1>
 
 ---
 
