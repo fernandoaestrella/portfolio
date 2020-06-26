@@ -78,7 +78,7 @@ Go to [Assets](https://github.com/fernandoaestrella/SlideIn/tree/master/Assets) 
 ---
 [Improved Pong](http://example.com/)
 
-Some improvements made to a Pong/Break Out basic game like:
+Some improvements made to a Pong/Break Out basic game idea like:
 - Ability to shoot multiple shots
 - Paddle freezes for some time when hitting the ball
 - Paddle gets smaller after every hit
