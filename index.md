@@ -14,11 +14,11 @@ My contributions:
 
 I lead the team to develop the back end pages displayed below. I am coding the Back End so that a Node.js server connects with the database and communicates with a server running React to handle the Front End.
 
-<img src="images/schedularA.jpg?raw=true"/>
+<img src="images/schedulerA.png?raw=true"/>
 
-<img src="images/schedulerB.jpg?raw=true"/>
+<img src="images/schedulerB.png?raw=true"/>
 
-<img src="images/scheduler-home.jpg?raw=true"/>
+<img src="images/scheduler-home.png?raw=true"/>
 
 <img src="images/scheduler-state-machine.jpg?raw=true"/>
 
