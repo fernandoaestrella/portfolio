@@ -2,6 +2,17 @@
 
 ---
 
+[Skunworks Course Scheduler](https://github.com/fernandoaestrella/nlp-final-project)
+
+
+[Music Learning website](https://github.com/jufer002/clef)
+
+My contributions:
+
+I focused mainly on search, progress report, autoscroll and the course display page.
+
+<img src="images/clef.png?raw=true"/>
+
 [Facebook Post Generator](https://github.com/fernandoaestrella/nlp-final-project)
 
 Natural Language Processing project done as a team where we applied Machine Learning to determine the sentiment a given article might carry and then created a possible response someone could have to it.
