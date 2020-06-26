@@ -42,18 +42,18 @@ I focused mainly on search, progress report, autoscroll and the course display p
 
 [Facebook Post Generator](https://github.com/fernandoaestrella/nlp-final-project)
 
-Natural Language Processing project done as a team where we applied Machine Learning to determine the sentiment a given article might carry and then created a possible response someone could have to it.
+Natural Language Processing project done in Python as a team where we applied Machine Learning to determine the sentiment a given article might carry and then created a possible response someone could have to it mixing a summary of the article, the sentiment, and some randomization.
 
 My contributions:
 
-Mainly adapted base sentiment analysis code to work with the possible input articles we would be receiving. Found here: [Testing diverse classifier models](https://github.com/fernandoaestrella/nlp-final-project/blob/master/all_together_e.py).
+Mainly adapted base sentiment analysis code to work with the possible input articles we would be receiving, among other tasks. Experimented with all models and features extracted and decided on the most effective one. Found here: [Testing diverse classifier models and feature extractors](https://github.com/fernandoaestrella/nlp-final-project/blob/master/all_together_e.py).
 
 ---
 [RoboCup Agent in C Sharp](https://github.com/fernandoaestrella/RoboCup-Agent-in-CSharp)
 
-Robocup 2D is a worlwide competition that pits teams of AI writers to create the brains of a robotic agent playing soccer.
+Robocup 2D is a worlwide competition that pits teams of AI writers to create the brains of a simulated robotic agent playing soccer.
 
-This was a proyect we started in college to practice UDP connections and AI. This one specifically only starts a connection with the server, starts a player, interprets the whole received string (only the "see" string), determines the position of the player with a simple method based on the closest flag and knowledge of its position, and with that information either moves to a desired position, waits for an amount of time determined by the user, and asks for another position, or closes in on the ball and kicks it to the goal (assuming they were both being seen).
+This was a proyect we started in college to practice UDP connections and AI. This one specifically is a client that only starts a connection with the server, starts a player, interprets the whole received string (only the "see" string), determines the position of the player with a simple method based on the closest flag and knowledge of its position, and with that information either moves to a desired position, waits for an amount of time determined by the user, and asks for another position, or closes in on the ball and kicks it to the goal (assuming they were both being seen). It is written in C Sharp.
 
 My contributions:
 
@@ -71,11 +71,11 @@ We did not create the graphical simulation shown below. It is used to visualize 
 
 [SlideIn](https://github.com/fernandoaestrella/SlideIn)
 
-A game in which you summon units in a table top gameboard. The goal is to slide your units into the opponent's goal tile. You can also remove a unit by placing yours in a specific way.
+A game made in Unity in which the player summons units in a table top gameboard. The goal is to slide your units into the opponent's goal tile. You can also remove an opponent's unit by placing 3 of yours in front of it.
 
 My contributions:
 
-All code written by me.
+All code in C Sharp and Scene configuration written by me.
 
 To play:
 
@@ -90,7 +90,7 @@ Go to [Assets](https://github.com/fernandoaestrella/SlideIn/tree/master/Assets) 
 ---
 [Improved Pong](http://example.com/)
 
-Some improvements made to a Pong/Break Out basic game idea like:
+Some improvements made to a Pong-like game concept (single player Pong with high score count), like:
 - Ability to shoot multiple shots
 - Paddle freezes for some time when hitting the ball
 - Paddle gets smaller after every hit
