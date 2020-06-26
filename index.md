@@ -12,6 +12,10 @@
 
 Natural Language Processing project done as a team where we applied Machine Learning to determine 
 
+My contributions:
+
+
+
 ---
 [RoboCup Agent in C Sharp](https://github.com/fernandoaestrella/RoboCup-Agent-in-CSharp)
 
@@ -21,7 +25,7 @@ This was a proyect we started in college to practice UDP connections and AI. Thi
 
 My contributions:
 
-Aproximately the later half of the code located here https://github.com/fernandoaestrella/RoboCup-Agent-in-CSharp/blob/master/RoboCup%20Agent/RoboCup%20Agent/Program.cs
+Aproximately the later half of the code located here: [Program.cs](https://github.com/fernandoaestrella/RoboCup-Agent-in-CSharp/blob/master/RoboCup%20Agent/RoboCup%20Agent/Program.cs)
 
 <img src="images/robocup.jpg?raw=true"/>
 
@@ -38,11 +42,11 @@ All code written by me.
 
 To play:
 
-Go to https://github.com/fernandoaestrella/SlideIn/blob/master/SlideIn.exe and download it.
+Go to [SlideIn.exe](https://github.com/fernandoaestrella/SlideIn/blob/master/SlideIn.exe), download and run it.
 
 To see code:
 
-Go to https://github.com/fernandoaestrella/SlideIn/tree/master/Assets and look at the C Sharp files.
+Go to [Assets](https://github.com/fernandoaestrella/SlideIn/tree/master/Assets) and look at the C Sharp files.
 
 <img src="images/slide-in-image.png?raw=true"/>
 
