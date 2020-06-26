@@ -8,13 +8,16 @@
 
 My contributions:
 
+[Front End communicating with Back End](https://github.com/brandeis-skunkworks/course-scheduling/blob/manual-scheduling-front-end/scheduling-app/src/App.js)
+[Back End communicating with Front End](https://github.com/brandeis-skunkworks/course-scheduling/blob/manual-scheduling-front-end/api/app.js)
+
 I lead the team to develop the back end pages displayed below.
 
 <img src="images/schedularA.jpg?raw=true"/>
 
 <img src="images/schedulerB.jpg?raw=true"/>
 
-I am coding the back end in Node.js to interface with the database, bring it all together and deliver.
+I am coding the Back End so that a Node.js server connects with the database and communicates with a server running React to handle the Front End.
 
 ---
 
