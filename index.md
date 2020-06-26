@@ -98,7 +98,7 @@ Go to [Assets](https://github.com/fernandoaestrella/SlideIn/tree/master/Assets) 
 ---
 [Actually Exciting Pong](https://github.com/fernandoaestrella/Actually-Exciting-Pong) (Spring of 2019)
 
-Some improvements made to a Pong-like game concept (single player Pong with high score count), like:
+Variation of Pong with:
 - Ability to shoot multiple shots
 - Paddle freezes for some time when hitting the ball
 - Paddle gets smaller after every hit
