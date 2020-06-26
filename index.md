@@ -20,7 +20,7 @@
 ### Games
 
 [SlideIn](https://github.com/fernandoaestrella/SlideIn)
-<img src="images/image.jpg?raw=true"/>
+<img src="images/slide-in-image.png?raw=true"/>
 To play:
 
 To see code:
