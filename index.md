@@ -22,7 +22,7 @@ I am coding the back end in Node.js to interface with the database, bring it all
 
 My contributions:
 
-I focused mainly on search, progress report, autoscroll and the course display page.
+I focused mainly on search, progress report, autoscroll and the course display page (shown below).
 
 <img src="images/clef.png?raw=true"/>
 
