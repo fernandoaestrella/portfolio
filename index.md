@@ -40,7 +40,7 @@ In a  team of 4, we created Clef in Ruby on Rails. Clef is an online platform fo
 
 My contributions:
 
-I focused mainly on search, progress report, autoscroll and the course display page (some shown below). [Course viewer](https://github.com/jufer002/clef/blob/master/app/views/courses/_course_viewer.html.erb)
+I focused mainly on search, progress report, autoscroll and the course display page (some shown below). Find it here: [Course viewer](https://github.com/jufer002/clef/blob/master/app/views/courses/_course_viewer.html.erb)
 
 <img src="images/clef.png?raw=true"/>
 
@@ -96,7 +96,7 @@ Go to [Assets](https://github.com/fernandoaestrella/SlideIn/tree/master/Assets) 
 <img src="images/slide-in-image.png?raw=true"/>
 
 ---
-[Improved Pong](http://example.com/) (Spring of 2019)
+[Actually Exciting Pong](https://github.com/fernandoaestrella/Actually-Exciting-Pong) (Spring of 2019)
 
 Some improvements made to a Pong-like game concept (single player Pong with high score count), like:
 - Ability to shoot multiple shots
