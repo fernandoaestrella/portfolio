@@ -10,11 +10,11 @@
 ---
 [Facebook Post Generator](https://github.com/fernandoaestrella/nlp-final-project)
 
-Natural Language Processing project done as a team where we applied Machine Learning to determine 
+Natural Language Processing project done as a team where we applied Machine Learning to determine the sentiment a given article might carry and then created a possible response someone could have to it.
 
 My contributions:
 
-
+Mainly adapted base sentiment analysis code to work with the possible input articles we would be receiving. Found here: [Testing diverse classifier models](https://github.com/fernandoaestrella/nlp-final-project/blob/master/all_together_e.py).
 
 ---
 [RoboCup Agent in C Sharp](https://github.com/fernandoaestrella/RoboCup-Agent-in-CSharp)
@@ -34,6 +34,7 @@ Aproximately the later half of the code located here: [Program.cs](https://githu
 ### Games
 
 [SlideIn](https://github.com/fernandoaestrella/SlideIn)
+
 A game in which you summon units in a table top gameboard. The goal is to slide your units into the opponent's goal tile. You can also remove a unit by placing yours in a specific way.
 
 My contributions:
