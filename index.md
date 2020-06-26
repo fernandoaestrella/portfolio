@@ -17,13 +17,18 @@
 
 ---
 
-### Category Name 2
+### Games
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [SlideIn](https://github.com/fernandoaestrella/SlideIn)
+To play:
+
+To see code:
+
+
+- [Improved Pong](http://example.com/)
+To play:
+
+To see code:
 
 ---
 
