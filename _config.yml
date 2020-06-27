@@ -1,6 +1,6 @@
 title: Fernando Estrella # your name (or website title) here
 logo: "/images/profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Contemporary engineering professional looking to determine, develop, improve and promote the best methods to solve the most challenging issues facing humanity while working and living at the merging point of cold science and unbounded creativity. <a href="https://www.linkedin.com/in/fernandoaestrella/">LinkedIn Profile</a>
+  <span style='font-size: 30px'>Contemporary engineering professional looking to determine, develop, improve and promote the best methods to solve the most challenging issues facing humanity while working and living at the merging point of cold science and unbounded creativity.</style> <a href="https://www.linkedin.com/in/fernandoaestrella/">LinkedIn Profile</a>
 
 theme: jekyll-theme-minimal
