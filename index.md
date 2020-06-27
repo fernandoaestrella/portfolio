@@ -92,11 +92,7 @@ We did not create the graphical simulation shown below. It is used to visualize 
 
 [SlideIn](https://github.com/fernandoaestrella/SlideIn) (Spring of 2020)
 
-A game made in Unity in which the player summons units in a table top gameboard. The goal is to slide your units into the opponent's goal tile. You can also remove an opponent's unit by placing 3 of yours in front of it.
-
-My contributions:
-
-All code in C Sharp and Scene configuration written by me.
+Solo developed a game made in Unity in which the player summons units in a table top gameboard. The goal is to slide your units into the opponent's goal tile. You can also remove an opponent's unit by placing 3 of yours in front of it.
 
 To play:
 
@@ -111,7 +107,7 @@ Go to [Assets](https://github.com/fernandoaestrella/SlideIn/tree/master/Assets) 
 ---
 [Actually Exciting Pong](https://github.com/fernandoaestrella/Actually-Exciting-Pong) (Spring of 2019)
 
-Variation of Pong with following features:
+Solo developed a variation of Pong in Processing with the following features:
 - Ability to shoot multiple shots
 - Paddle freezes for some time when hitting the ball
 - Paddle gets smaller after every hit
