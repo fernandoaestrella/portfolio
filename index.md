@@ -18,7 +18,7 @@ This state machine shows the different states the client needed the application 
 
 <img src="images/scheduler-state-machine.jpg?raw=true"/>
 
-I then lead the team to develop the front end pages displayed below, and made the mockup for the first one. I also performed other managerial duties like give status of the project, find support, coordinate and attend continuous meetings with stakeholders, etc.
+I then lead the team to develop the front end pages displayed below, and made the mockup for the first one. I set up and managed a Vagrant virtual environment that could be replicated in any machine, facilitating new members getting up to speed with the project and avoiding problems with the environment used to develop, later on. I also performed other managerial duties like give status of the project, find support, coordinate and attend continuous meetings with stakeholders, etc.
 
 <img src="images/schedulerA.png?raw=true"/>
 
