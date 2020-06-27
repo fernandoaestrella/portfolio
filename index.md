@@ -1,4 +1,4 @@
-# <div align="center"> Portfolio </div>
+<div align="center"> <h1> Portfolio </h1> </div>
 
 ## Projects
 
