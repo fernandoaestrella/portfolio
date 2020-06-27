@@ -58,7 +58,7 @@ Mainly adapted base sentiment analysis code to work with the possible input arti
 
 ---
 
-[Low-Cost, Low-Weight Telepresence Device](https://github.com/fernandoaestrella/Low-Cost-Low-Weight-Telepresence-Device) (2015)
+[Low-Cost, Low-Weight Telepresence Device](https://www.dropbox.com/sh/hmedamt5jmw2cwx/AAAx05Mv4IYWZDVO-P1pUcCya?dl=0) (2015)
 
 As part of the final project to opt for the title of Electronic Engineer, planned and built a low-cost, low-weight telepresence solution based on a Raspberry Pi, distance sensors, and Internet connection. 
 
