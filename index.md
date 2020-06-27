@@ -34,7 +34,7 @@ Due to the COVID-19 pandemic, many team members had to abruptly return back home
 
 ---
 
-[Clef: A music learning website](https://github.com/jufer002/clef) (Spring of 2020)
+[Clef: A Music Learning Website](https://github.com/jufer002/clef) (Spring of 2020)
 
 In a  team of 4, we created Clef in Ruby on Rails. Clef is an online platform for people passionate about music and learning it. Users can create courses with sections and sections with lessons. They can upload videos or images to a lesson. They can also tag lessons, search for courses and lessons, autoscroll a lesson, and keep track of their progress in a course.
 
@@ -57,6 +57,11 @@ My contributions:
 Mainly adapted base sentiment analysis code to work with the possible input articles we would be receiving, among other tasks. Experimented with all models and features extracted and decided on the most effective one. Found here: [Testing diverse classifier models and feature extractors](https://github.com/fernandoaestrella/nlp-final-project/blob/master/all_together_e.py).
 
 ---
+
+[Low Cost Telepresence Device]()
+
+---
+
 [RoboCup Agent in C Sharp](https://github.com/fernandoaestrella/RoboCup-Agent-in-CSharp) (2015)
 
 Robocup 2D is a worlwide competition that pits teams of AI writers to create the brains of a simulated robotic agent playing soccer.
@@ -70,6 +75,14 @@ Aproximately the later half of the code located here: [Program.cs](https://githu
 We did not create the graphical simulation shown below. It is used to visualize the behavior of the simulation.
 
 <img src="images/robocup.jpg?raw=true"/>
+
+---
+
+[Electrocardiogram]()
+
+---
+
+[Motion Controlled RC Toy Car]()
 
 ---
 
