@@ -1,10 +1,14 @@
 <div align="center"> <h1> Portfolio </h1> </div>
 
+### Shortcuts
+
+---
+
 ### Projects
 
 ---
 
-[Skunworks Course Scheduler](https://github.com/brandeis-skunkworks/course-scheduling/tree/master/Vagrant) (Jun 2019 - Present)
+[Skunworks Course Scheduler](https://github.com/brandeis-skunkworks/course-scheduling/tree/master/Vagrant) (Jan 2019 - Present)
 
 [Brandeis Skunkworks](https://brandeisskunkworks.herokuapp.com) is a student organization focused on providing support, mentorship and experience to student groups interested in developing ideas that mainly improve the campus.
 
@@ -50,7 +54,7 @@ I focused mainly on search, progress report, autoscroll and the course display p
 
 [Facebook Post Generator](https://github.com/fernandoaestrella/nlp-final-project) (Fall of 2019)
 
-Natural Language Processing project done in Python as a team where we applied Machine Learning to determine the sentiment a given article might carry and then created a possible response someone could have to it mixing a summary of the article, the sentiment, and some randomization.
+Natural Language Processing project done in Python as a team of 3 where we applied Machine Learning to determine the sentiment a given article might carry and then created a possible response someone could have to it by mixing a summary of the article, the sentiment, and some randomization.
 
 My contributions:
 
@@ -58,7 +62,7 @@ Mainly adapted base sentiment analysis code to work with the possible input arti
 
 ---
 
-[Low-Cost Telepresence Device]()
+[Low-Cost, Low-Weight Telepresence Device](https://github.com/fernandoaestrella/Low-Cost-Low-Weight-Telepresence-Device)
 
 As part of the final project to opt for the title of Electronic Engineer, planned and built a low-cost, low-weight telepresence solution based on a Raspberry Pi, distance sensors, and Internet connection. 
 
