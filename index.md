@@ -94,11 +94,11 @@ As part of a team of 2, created an electrocardiogram display by picking up very 
 
 My contributions:
 
-Configured the ADC (Analog to Digital Converter) interface (shown [here](https://github.com/fernandoaestrella/Electrocardiogram/blob/master/Electrocardiogram/better%20res/procc.c)), configured the serial transmission (shown [here](https://github.com/fernandoaestrella/Electrocardiogram/blob/master/Electrocardiogram/transmit%20heart%20pulse/transmit%20heart%20pulse/transmit%20heart%20pulse.c)), and produced the [Processing](https://processing.org/) display program (shown [here](https://github.com/fernandoaestrella/Electrocardiogram/blob/master/Electrocardiogram/graph_heart_rate/ultimo/graph_heart_rate_plus_BPM_display.pde). 
+Configured the ADC (Analog to Digital Converter) interface (shown [here](https://github.com/fernandoaestrella/Electrocardiogram/blob/master/Electrocardiogram/better%20res/procc.c)), configured the serial transmission (shown [here](https://github.com/fernandoaestrella/Electrocardiogram/blob/master/Electrocardiogram/transmit%20heart%20pulse/transmit%20heart%20pulse/transmit%20heart%20pulse.c)), and produced the [Processing](https://processing.org/) display program (shown [here](https://github.com/fernandoaestrella/Electrocardiogram/blob/master/Electrocardiogram/graph_heart_rate/ultimo/graph_heart_rate_plus_BPM_display.pde)). 
 
 Co-developed and co-produced the amplification and filtering external circuitry (it was not in the AVR board) as shown below. Chose an order 5 low pass filter, with a Sallen-Key topology and Tschebyscheff classification. Report [here](https://github.com/fernandoaestrella/Electrocardiogram/blob/master/Electrocardiogram/Reporte%20EKG.docx) (in Spanish).
 
-<img src="images/low pass filter.prn?raw=true"/>
+<img src="images/low pass filter.png?raw=true"/>
 
 ---
 
