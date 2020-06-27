@@ -82,7 +82,7 @@ We did not create the graphical simulation shown below. It is used to visualize 
 
 [Electrocardiogram](https://github.com/fernandoaestrella/Electrocardiogram)
 
-As part of a team of 2, created an electrocardiogram display by picking up very small voltage differences in 3 extremities, amplifying it, filtering it, converting it to a digital value that an EasyAVR board (a board based on the ATMEGA16A microcontroller) could understand, serializing it and sending it through USB to a laptop with a [Processing](https://processing.org/) program displaying the results as an ECG display.
+As part of a team of 2, created an electrocardiogram display by picking up very small voltage differences in 3 extremities, amplifying them, filtering them, converting them to a digital value that an [EasyAVR](https://www.mikroe.com/easyavr) board (a development board based on the ATMEGA16A microcontroller) could understand, and serializing and sending through USB to a laptop with a [Processing](https://processing.org/) program displaying the results as an ECG display.
 
 My contributions:
 
