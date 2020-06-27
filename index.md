@@ -6,7 +6,7 @@
 
 [Skunworks Course Scheduler](https://github.com/brandeis-skunkworks/course-scheduling/tree/master/Vagrant) (Jun 2019 - Present)
 
-Brandeis Skunkworks is a student organization focused on providing support, mentorship and experience to student groups interested in developing ideas that mainly improve the campus.
+[Brandeis Skunkworks](brandeisskunkworks.herokuapp.com) is a student organization focused on providing support, mentorship and experience to student groups interested in developing ideas that mainly improve the campus.
 
 Course Scheduler is an application that will allow department coordinators to more easily schedule classes in pre-defined time slots while taking into account many diverse contraints set by professors and by the nature of the classes.
 
@@ -18,7 +18,7 @@ This state machine shows the different states the client needed the application 
 
 <img src="images/scheduler-state-machine.jpg?raw=true"/>
 
-I then lead the team to develop the front end pages displayed below.
+I then lead the team to develop the front end pages displayed below, and made the mockup for the first one.
 
 <img src="images/schedulerA.png?raw=true"/>
 
