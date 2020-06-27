@@ -8,7 +8,7 @@
 
 [Brandeis Skunkworks](https://brandeisskunkworks.herokuapp.com) is a student organization focused on providing support, mentorship and experience to student groups interested in developing ideas that mainly improve the campus.
 
-Course Scheduler is an application that will allow department coordinators to more easily schedule classes in pre-defined time slots while taking into account many diverse contraints set by professors and by the nature of the classes. The team had 7 members at its peak and has had 10 members over its lifetime.
+Course Scheduler is a React web application that will allow department coordinators to more easily schedule classes in pre-defined time slots while taking into account many diverse constraints set by professors and by the nature of the classes. The team had 7 members at its peak and has had 10 members over its lifetime.
 
 My contributions:
 
@@ -80,7 +80,7 @@ We did not create the graphical simulation shown below. It is used to visualize 
 
 ---
 
-[Electrocardiogram]()
+[Electrocardiogram](https://github.com/fernandoaestrella/Electrocardiogram)
 
 As part of a team of 2, created an electrocardiogram display by picking up very small voltage differences in 3 extremities, amplifying it, filtering it, converting it to a digital value that an EasyAVR board (a board based on the ATMEGA16A microcontroller) could understand, serializing it and sending it through USB to a laptop with a [Processing](https://processing.org/) program displaying the results as an ECG display.
 
@@ -90,7 +90,7 @@ Produced the [Processing](https://processing.org/) display program and configure
 
 ---
 
-[Motion Controlled RC Toy Car]()
+[Motion Controlled RC Toy Car](https://github.com/fernandoaestrella/Motion-Controlled-RC-Car)
 
 As part of a team of 2, modified a cheap RC toy car to be controlled by the angle in which a hand was positioned.
 
