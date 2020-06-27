@@ -12,7 +12,7 @@ Course Scheduler is an application that will allow department coordinators to mo
 
 My contributions:
 
-I went through stages of the project, from ideation, to team building, to planning.
+I went through all stages of the project, from ideation, to team building, to planning.
 
 This state machine shows the different states the client needed the application to be in while manually scheduling.
 
