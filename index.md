@@ -58,15 +58,17 @@ Mainly adapted base sentiment analysis code to work with the possible input arti
 
 ---
 
-[Low Cost Telepresence Device]()
+[Low-Cost Telepresence Device]()
+
+As part of the final project to opt for the title of Electronic Engineer, planned and built a low-cost telepresence solution based on a RaspBerry Pi, distance sensors, and Internet connection. 
 
 ---
 
 [RoboCup Agent in C Sharp](https://github.com/fernandoaestrella/RoboCup-Agent-in-CSharp) (2015)
 
-Robocup 2D is a worlwide competition that pits teams of AI writers to create the brains of a simulated robotic agent playing soccer.
+[RoboCup Soccer](https://www.robocup.org/leagues/24) is a worlwide competition that pits teams of AI writers to create the brains of a simulated robotic agent playing soccer.
 
-This was a proyect we started in college to practice UDP connections and AI. This one specifically is a client that only starts a connection with the server, starts a player, interprets the whole received string (only the "see" string), determines the position of the player with a simple method based on the closest flag and knowledge of its position, and with that information either moves to a desired position, waits for an amount of time determined by the user, and asks for another position, or closes in on the ball and kicks it to the goal (assuming they were both being seen). It is written in C Sharp.
+This was a proyect we started in college, in a group of 3, to practice UDP connections and AI. This one specifically is a client that only starts a connection with the server, starts a player, interprets the whole received string (only the "see" string), determines the position of the player with a simple method based on the closest flag and knowledge of its position, and with that information either moves to a desired position, waits for an amount of time determined by the user, and asks for another position, or closes in on the ball and kicks it to the goal (assuming they were both being seen). It is written in C Sharp.
 
 My contributions:
 
@@ -80,9 +82,13 @@ We did not create the graphical simulation shown below. It is used to visualize 
 
 [Electrocardiogram]()
 
+As part of a team of 2, created an electrocardiogram display by picking up very small voltage differences in 3 extremities, amplifying it, filtering it, converting it to a digital value that an EasyAVR board (a board based on the 
+
 ---
 
 [Motion Controlled RC Toy Car]()
+
+As part of a team of 2, modified a cheap RC toy car to be controlled by the angle in which a hand was positioned.
 
 ---
 
