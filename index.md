@@ -18,7 +18,7 @@ This state machine shows the different states the client needed the application 
 
 <img src="images/scheduler-state-machine.jpg?raw=true"/>
 
-I then lead the team to develop the front end pages displayed below, and made the mockup for the first one. I set up and managed a Vagrant virtual environment that could be replicated in any machine, facilitating new members getting up to speed with the project and avoiding problems with the environment used to develop, later on. I also performed other managerial duties like give status of the project, find support, coordinate and attend continuous meetings with stakeholders, etc.
+I then lead the team that developed the front end pages displayed below, and made the mockup for the first one. I set up and managed a Vagrant virtual environment that could be replicated in any machine, facilitating new members getting up to speed with the project and avoiding problems with the environment used to develop, later on. I also performed other managerial duties like give status of the project, find support, coordinate and attend continuous meetings with stakeholders, etc.
 
 <img src="images/schedulerA.png?raw=true"/>
 
@@ -109,7 +109,7 @@ As part of a team of 2, modified a cheap RC toy car to be controlled by the angl
 
 My contributions:
 
-Focused on all the programming of the used STM32F100 board, which use the Arm® Cortex®-M3 core. Created code for determining the position of the user controller (shown [here](https://github.com/fernandoaestrella/Motion-Controlled-RC-Car/blob/master/Motion%20Controlled%20RC%20Car/Programa/main.c)) through which a user could turn the sensor (an ADXL335 accelerometer, shown below) in any of 4 different directions (forward, backwards, left and right) and the appropriate combination, and the car would move in any of the resulting directions (it could move forward, backwards, forward and right, forward and left, back and right, back and left, turn the wheels right, or turn them left). Final report [here](https://github.com/fernandoaestrella/Motion-Controlled-RC-Car/blob/master/Motion%20Controlled%20RC%20Car/Reporte%20Final.pdf) (in Spanish).
+Focused on all the programming of the used STM32F100 board, which use the Arm® Cortex®-M3 core. Created code for determining the position of the user controller (shown [here](https://github.com/fernandoaestrella/Motion-Controlled-RC-Car/blob/master/Motion%20Controlled%20RC%20Car/Programa/main.c)) through which a user could turn the sensor (an ADXL335 accelerometer, shown below) in any of 4 different directions (forward, backwards, left and right) and the appropriate combinations, and the car would move in any of the resulting directions (it could move forward, backwards, forward and right, forward and left, back and right, back and left, turn the wheels right, or turn them left). Final report [here](https://github.com/fernandoaestrella/Motion-Controlled-RC-Car/blob/master/Motion%20Controlled%20RC%20Car/Reporte%20Final.pdf) (in Spanish).
 
 <img src="images/accelerometer.png?raw=true"/>
 
