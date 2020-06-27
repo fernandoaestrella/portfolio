@@ -1,9 +1,5 @@
 <div align="center"> <h1> Portfolio </h1> </div>
 
-### Shortcuts
-
----
-
 ### Projects
 
 ---
