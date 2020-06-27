@@ -94,7 +94,7 @@ As part of a team of 2, created an electrocardiogram display by picking up very 
 
 My contributions:
 
-Produced the [Processing](https://processing.org/) display program and configured the ADC (Analog to Digital Converter) interface. Co-developed the amplification and filtering external circuitry (it was not in the AVR board).
+Configured the ADC (Analog to Digital Converter) interface (shown [here](https://github.com/fernandoaestrella/Electrocardiogram/blob/master/Electrocardiogram/better%20res/procc.c)), configured the serial transmission (shown [here](https://github.com/fernandoaestrella/Electrocardiogram/blob/master/Electrocardiogram/transmit%20heart%20pulse/transmit%20heart%20pulse/transmit%20heart%20pulse.c)), and produced the [Processing](https://processing.org/) display program (shown [here](https://github.com/fernandoaestrella/Electrocardiogram/blob/master/Electrocardiogram/graph_heart_rate/ultimo/graph_heart_rate_plus_BPM_display.pde). Co-developed the amplification and filtering external circuitry (it was not in the AVR board).
 
 ---
 
