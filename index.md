@@ -58,7 +58,7 @@ Mainly adapted base sentiment analysis code to work with the possible input arti
 
 ---
 
-[Low-Cost, Low-Weight Telepresence Device](https://github.com/fernandoaestrella/Low-Cost-Low-Weight-Telepresence-Device)
+[Low-Cost, Low-Weight Telepresence Device](https://github.com/fernandoaestrella/Low-Cost-Low-Weight-Telepresence-Device) (2015)
 
 As part of the final project to opt for the title of Electronic Engineer, planned and built a low-cost, low-weight telepresence solution based on a Raspberry Pi, distance sensors, and Internet connection. 
 
@@ -88,7 +88,7 @@ We did not create the graphical simulation shown below. It is used to visualize 
 
 ---
 
-[Electrocardiogram](https://github.com/fernandoaestrella/Electrocardiogram)
+[Electrocardiogram](https://github.com/fernandoaestrella/Electrocardiogram) (Fall of 2014)
 
 As part of a team of 2, created an electrocardiogram display by picking up very small voltage differences in 3 extremities, amplifying them, filtering them, converting them to a digital value that an [EasyAVR](https://www.mikroe.com/easyavr) board (a development board based on the ATMEGA16A microcontroller) could understand, and serializing and sending through USB to a laptop with a [Processing](https://processing.org/) program displaying the results as an ECG display.
 
@@ -98,7 +98,7 @@ Produced the [Processing](https://processing.org/) display program and configure
 
 ---
 
-[Motion Controlled RC Toy Car](https://github.com/fernandoaestrella/Motion-Controlled-RC-Car)
+[Motion Controlled RC Toy Car](https://github.com/fernandoaestrella/Motion-Controlled-RC-Car) (Spring of 2014)
 
 As part of a team of 2, modified a cheap RC toy car to be controlled by the angle in which a hand was positioned.
 
