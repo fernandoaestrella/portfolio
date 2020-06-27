@@ -1,4 +1,4 @@
-# <div align="center"> Portfolio (95% complete) </div>
+# <div align="center"> Portfolio </div>
 
 ## Projects
 
