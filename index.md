@@ -96,7 +96,7 @@ My contributions:
 
 Configured the ADC (Analog to Digital Converter) interface (shown [here](https://github.com/fernandoaestrella/Electrocardiogram/blob/master/Electrocardiogram/better%20res/procc.c)), configured the serial transmission (shown [here](https://github.com/fernandoaestrella/Electrocardiogram/blob/master/Electrocardiogram/transmit%20heart%20pulse/transmit%20heart%20pulse/transmit%20heart%20pulse.c)), and produced the [Processing](https://processing.org/) display program (shown [here](https://github.com/fernandoaestrella/Electrocardiogram/blob/master/Electrocardiogram/graph_heart_rate/ultimo/graph_heart_rate_plus_BPM_display.pde)). 
 
-Co-developed and co-produced the amplification and filtering external circuitry (it was not in the AVR board) as shown below. Chose an order 5 low pass filter, with a Sallen-Key topology and Tschebyscheff classification. Report [here](https://github.com/fernandoaestrella/Electrocardiogram/blob/master/Electrocardiogram/Reporte%20EKG.docx) (in Spanish).
+Co-developed and co-produced the amplification and filtering external circuitry (it was not in the AVR board) as shown below. Chose a low pass filter of order 5 (to filter enough), with a Sallen-Key topology (ideal for using less components and using a unique power source) and Tschebyscheff classification in regards to its frequency response (because of its steep atenuation at the cutoff frequency, so that a 60 Hz frequency component, common in power lines, may be atenuated). Report [here](https://github.com/fernandoaestrella/Electrocardiogram/blob/master/Electrocardiogram/Reporte%20EKG.docx) (in Spanish).
 
 <img src="images/low pass filter.png?raw=true"/>
 
