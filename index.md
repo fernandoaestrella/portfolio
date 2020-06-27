@@ -90,11 +90,15 @@ We did not create the graphical simulation shown below. It is used to visualize 
 
 [Electrocardiogram](https://github.com/fernandoaestrella/Electrocardiogram) (Fall of 2014)
 
-As part of a team of 2, created an electrocardiogram display by picking up very small voltage differences in 3 extremities, amplifying them, filtering them, converting them to a digital value that an [EasyAVR](https://www.mikroe.com/easyavr) board (a development board based on the ATMEGA16A microcontroller) could understand, and serializing and sending through USB to a laptop with a [Processing](https://processing.org/) program displaying the results as an ECG display.
+As part of a team of 2, created an electrocardiogram display by picking up very small voltage differences in 3 extremities, amplifying them, filtering them, converting them to a digital value that an [EasyAVR](https://www.mikroe.com/easyavr) board (a development board based on the ATMEGA16A microcontroller) could understand, and serializing and sending through USB to a laptop with a [Processing](https://processing.org/) program displaying the variation of voltage in the heart and calculating and displaying the beats per minute.
 
 My contributions:
 
-Configured the ADC (Analog to Digital Converter) interface (shown [here](https://github.com/fernandoaestrella/Electrocardiogram/blob/master/Electrocardiogram/better%20res/procc.c)), configured the serial transmission (shown [here](https://github.com/fernandoaestrella/Electrocardiogram/blob/master/Electrocardiogram/transmit%20heart%20pulse/transmit%20heart%20pulse/transmit%20heart%20pulse.c)), and produced the [Processing](https://processing.org/) display program (shown [here](https://github.com/fernandoaestrella/Electrocardiogram/blob/master/Electrocardiogram/graph_heart_rate/ultimo/graph_heart_rate_plus_BPM_display.pde). Co-developed the amplification and filtering external circuitry (it was not in the AVR board).
+Configured the ADC (Analog to Digital Converter) interface (shown [here](https://github.com/fernandoaestrella/Electrocardiogram/blob/master/Electrocardiogram/better%20res/procc.c)), configured the serial transmission (shown [here](https://github.com/fernandoaestrella/Electrocardiogram/blob/master/Electrocardiogram/transmit%20heart%20pulse/transmit%20heart%20pulse/transmit%20heart%20pulse.c)), and produced the [Processing](https://processing.org/) display program (shown [here](https://github.com/fernandoaestrella/Electrocardiogram/blob/master/Electrocardiogram/graph_heart_rate/ultimo/graph_heart_rate_plus_BPM_display.pde). 
+
+Co-developed and co-produced the amplification and filtering external circuitry (it was not in the AVR board) as shown below. Chose an order 5 low pass filter, with a Sallen-Key topology and Tschebyscheff classification. Report [here](https://github.com/fernandoaestrella/Electrocardiogram/blob/master/Electrocardiogram/Reporte%20EKG.docx) (in Spanish).
+
+<img src="images/low pass filter.prn?raw=true"/>
 
 ---
 
