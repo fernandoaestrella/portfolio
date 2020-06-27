@@ -1,10 +1,10 @@
-<div align="center"> <h1> Portfolio (95% complete)</h1> </div>
+# <div align="center"> Portfolio (95% complete) </div>
 
-### Projects
+## Projects
 
 ---
 
-[Skunworks Course Scheduler](https://github.com/brandeis-skunkworks/course-scheduling/tree/master/Vagrant) (Jan 2019 - Present)
+### [Skunworks Course Scheduler](https://github.com/brandeis-skunkworks/course-scheduling/tree/master/Vagrant) (Jan 2019 - Present)
 
 [Brandeis Skunkworks](https://brandeisskunkworks.herokuapp.com) is a student organization focused on providing support, mentorship and experience to student groups interested in developing ideas that mainly improve the campus.
 
@@ -34,7 +34,7 @@ Due to the COVID-19 pandemic, many team members had to abruptly return back home
 
 ---
 
-[Clef: A Music Learning Website](https://github.com/jufer002/clef) (Spring of 2020)
+### [Clef: A Music Learning Website](https://github.com/jufer002/clef) (Spring of 2020)
 
 In a  team of 4, we created Clef in Ruby on Rails. Clef is an online platform for people passionate about music and learning it. Users can create courses with sections and sections with lessons. They can upload videos or images to a lesson. They can also tag lessons, search for courses and lessons, autoscroll a lesson, and keep track of their progress in a course.
 
@@ -48,7 +48,7 @@ I focused mainly on search, progress report, autoscroll and the course display p
 
 ---
 
-[Facebook Post Generator](https://github.com/fernandoaestrella/nlp-final-project) (Fall of 2019)
+### [Facebook Post Generator](https://github.com/fernandoaestrella/nlp-final-project) (Fall of 2019)
 
 Natural Language Processing project done in Python as a team of 3 where we applied Machine Learning to determine the sentiment a given article might carry and then created a possible response someone could have to it by mixing a summary of the article, the sentiment, and some randomization.
 
@@ -58,9 +58,9 @@ Mainly adapted base sentiment analysis code to work with the possible input arti
 
 ---
 
-[Low-Cost, Low-Weight Telepresence Device](https://www.dropbox.com/sh/hmedamt5jmw2cwx/AAAx05Mv4IYWZDVO-P1pUcCya?dl=0) (2015)
+### [Low-Cost, Low-Weight Telepresence Device](https://www.dropbox.com/sh/hmedamt5jmw2cwx/AAAx05Mv4IYWZDVO-P1pUcCya?dl=0) (2015)
 
-As part of the final project to opt for the title of Electronic Engineer, planned and built a low-cost, low-weight telepresence solution based on a Raspberry Pi, distance sensors, and Internet connection. 
+As part of the final project to opt for the title of Electronic Engineer, independently planned and built a low-cost, low-weight telepresence solution based on a Raspberry Pi, distance sensors, and Internet connection. 
 
 <img src="images/3D design.png?raw=true"/>
 
@@ -72,7 +72,7 @@ As part of the final project to opt for the title of Electronic Engineer, planne
 
 ---
 
-[RoboCup Agent in C Sharp](https://github.com/fernandoaestrella/RoboCup-Agent-in-CSharp) (2015)
+### [RoboCup Agent in C Sharp](https://github.com/fernandoaestrella/RoboCup-Agent-in-CSharp) (2015)
 
 [RoboCup Soccer](https://www.robocup.org/leagues/24) is a worlwide competition that pits teams of AI writers to create the brains of a simulated robotic agent playing soccer.
 
@@ -88,7 +88,7 @@ We did not create the graphical simulation shown below. It is used to visualize 
 
 ---
 
-[Electrocardiogram](https://github.com/fernandoaestrella/Electrocardiogram) (Fall of 2014)
+### [Electrocardiogram](https://github.com/fernandoaestrella/Electrocardiogram) (Fall of 2014)
 
 As part of a team of 2, created an electrocardiogram display by picking up very small voltage differences in 3 extremities, amplifying them, filtering them, converting them to a digital value that an [EasyAVR](https://www.mikroe.com/easyavr) board (a development board based on the ATMEGA16A microcontroller) could understand, and serializing and sending through USB to a laptop with a [Processing](https://processing.org/) program displaying the variation of voltage in the heart and calculating and displaying the beats per minute.
 
@@ -103,9 +103,9 @@ Co-developed and co-produced the amplification and filtering external circuitry 
 
 ---
 
-[Motion Controlled RC Toy Car](https://github.com/fernandoaestrella/Motion-Controlled-RC-Car) (Spring of 2014)
+### [Motion Controlled RC Toy Car](https://github.com/fernandoaestrella/Motion-Controlled-RC-Car) (Spring of 2014)
 
-As part of a team of 2, modified a cheap RC toy car to be controlled by the angle in which a hand was positioned.
+As part of a team of 2, modified a cheap RC toy car to be controlled by the angle in which a sensor was positioned, and then transmitted that position wirelessly.
 
 My contributions:
 
@@ -115,11 +115,11 @@ Focused on all the programming of the used STM32F100 board, which use the Arm® 
 
 ---
 
-### Games
+## Games
 
 ---
 
-[SlideIn](https://github.com/fernandoaestrella/SlideIn) (Spring of 2020)
+### [SlideIn](https://github.com/fernandoaestrella/SlideIn) (Spring of 2020)
 
 Solo developed a game made in Unity in which the player summons units in a table top gameboard. The goal is to slide your units into the opponent's goal tile. You can also remove an opponent's unit by placing 3 of yours in front of it.
 
@@ -134,7 +134,7 @@ Go to [Assets](https://github.com/fernandoaestrella/SlideIn/tree/master/Assets) 
 <img src="images/slide-in-image.png?raw=true"/>
 
 ---
-[Actually Exciting Pong](https://github.com/fernandoaestrella/Actually-Exciting-Pong) (Spring of 2019)
+### [Actually Exciting Pong](https://github.com/fernandoaestrella/Actually-Exciting-Pong) (Spring of 2019)
 
 Solo developed a variation of Pong in [Processing](https://processing.org/) with the following features:
 - Ability to shoot multiple shots
@@ -148,3 +148,6 @@ Solo developed a variation of Pong in [Processing](https://processing.org/) with
 <div align="center"> <img src="images/excitingpong.png?raw=true"/> </div>
 
 ---
+
+...and many more smaller projects!
+Questions? Reach me at fernandoaestrella@gmail.com.
