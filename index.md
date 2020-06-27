@@ -8,17 +8,17 @@
 
 [Brandeis Skunkworks](https://brandeisskunkworks.herokuapp.com) is a student organization focused on providing support, mentorship and experience to student groups interested in developing ideas that mainly improve the campus.
 
-Course Scheduler is an application that will allow department coordinators to more easily schedule classes in pre-defined time slots while taking into account many diverse contraints set by professors and by the nature of the classes.
+Course Scheduler is an application that will allow department coordinators to more easily schedule classes in pre-defined time slots while taking into account many diverse contraints set by professors and by the nature of the classes. The team had 7 members at its peak and has had 10 members over its lifetime.
 
 My contributions:
 
-I went through all stages of the project, from ideation, to team building, to planning.
+I went through all stages of the project, from ideation to team building, to planning, and to execution.
 
 This state machine shows the different states the client needed the application to be in while manually scheduling.
 
 <img src="images/scheduler-state-machine.jpg?raw=true"/>
 
-I then lead the team to develop the front end pages displayed below, and made the mockup for the first one.
+I then lead the team to develop the front end pages displayed below, and made the mockup for the first one. I also performed other managerial duties like give status of the project, find support, coordinate and attend continuous meetings with stakeholders, etc.
 
 <img src="images/schedulerA.png?raw=true"/>
 
@@ -60,7 +60,7 @@ Mainly adapted base sentiment analysis code to work with the possible input arti
 
 [Low-Cost Telepresence Device]()
 
-As part of the final project to opt for the title of Electronic Engineer, planned and built a low-cost telepresence solution based on a RaspBerry Pi, distance sensors, and Internet connection. 
+As part of the final project to opt for the title of Electronic Engineer, planned and built a low-cost, low-weight telepresence solution based on a Raspberry Pi, distance sensors, and Internet connection. 
 
 ---
 
@@ -96,7 +96,7 @@ As part of a team of 2, modified a cheap RC toy car to be controlled by the angl
 
 My contributions:
 
-Focused on all the programming of the used STM32F100 board, which uses the Arm® Cortex®-M3 core.
+Focused on all the programming of the used STM32F100 boards, which use the Arm® Cortex®-M3 core. Interacted with the Bluetooth module that received the word that indicated where to move.
 
 ---
 
