@@ -62,6 +62,14 @@ Mainly adapted base sentiment analysis code to work with the possible input arti
 
 As part of the final project to opt for the title of Electronic Engineer, planned and built a low-cost, low-weight telepresence solution based on a Raspberry Pi, distance sensors, and Internet connection. 
 
+<img src="images/final.png?raw=true"/>
+
+<img src="images/telepresence-device-diagram.png?raw=true"/>
+
+<img src="images/schematic.png?raw=true"/>
+
+<img src="images/3D design.png?raw=true"/>
+
 ---
 
 [RoboCup Agent in C Sharp](https://github.com/fernandoaestrella/RoboCup-Agent-in-CSharp) (2015)
