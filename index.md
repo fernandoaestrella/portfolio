@@ -1,4 +1,4 @@
-<div align="center"> <h1> Portfolio </h1> </div>
+<div align="center"> <h1> Portfolio (85% complete)</h1> </div>
 
 ### Projects
 
@@ -138,6 +138,6 @@ Solo developed a variation of Pong in [Processing](https://processing.org/) with
 - Ball accelerates after hitting paddle
 - Ball goes more red the faster it goes
 
-<img src="images/excitingpong.png?raw=true"/>
+<div align="center"> <img src="images/excitingpong.png?raw=true"/> </div>
 
 ---
