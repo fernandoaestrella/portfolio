@@ -82,13 +82,21 @@ We did not create the graphical simulation shown below. It is used to visualize 
 
 [Electrocardiogram]()
 
-As part of a team of 2, created an electrocardiogram display by picking up very small voltage differences in 3 extremities, amplifying it, filtering it, converting it to a digital value that an EasyAVR board (a board based on the 
+As part of a team of 2, created an electrocardiogram display by picking up very small voltage differences in 3 extremities, amplifying it, filtering it, converting it to a digital value that an EasyAVR board (a board based on the ATMEGA16A microcontroller) could understand, serializing it and sending it through USB to a laptop with a [Processing](https://processing.org/) program displaying the results as an ECG display.
+
+My contributions:
+
+Produced the [Processing](https://processing.org/) display program and configured the ADC (Analog to Digital Converter) interface. Co-developed the amplification and filtering external circuitry (it was not in the AVR board).
 
 ---
 
 [Motion Controlled RC Toy Car]()
 
 As part of a team of 2, modified a cheap RC toy car to be controlled by the angle in which a hand was positioned.
+
+My contributions:
+
+Focused on all the programming of the used STM32F100 board, which uses the Arm® Cortex®-M3 core.
 
 ---
 
@@ -113,7 +121,7 @@ Go to [Assets](https://github.com/fernandoaestrella/SlideIn/tree/master/Assets) 
 ---
 [Actually Exciting Pong](https://github.com/fernandoaestrella/Actually-Exciting-Pong) (Spring of 2019)
 
-Solo developed a variation of Pong in Processing with the following features:
+Solo developed a variation of Pong in [Processing](https://processing.org/) with the following features:
 - Ability to shoot multiple shots
 - Paddle freezes for some time when hitting the ball
 - Paddle gets smaller after every hit
