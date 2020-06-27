@@ -109,7 +109,9 @@ As part of a team of 2, modified a cheap RC toy car to be controlled by the angl
 
 My contributions:
 
-Focused on all the programming of the used STM32F100 boards, which use the Arm® Cortex®-M3 core. Interacted with the Bluetooth module that received the word that indicated where to move.
+Focused on all the programming of the used STM32F100 board, which use the Arm® Cortex®-M3 core. Created code for determining the position of the user controller (shown [here](https://github.com/fernandoaestrella/Motion-Controlled-RC-Car/blob/master/Motion%20Controlled%20RC%20Car/Programa/main.c)) through which a user could turn the sensor (an ADXL335 accelerometer) in any of 4 different directions (forward, backwards, left and right) and the car would move in any of the resulting direction (it could move forward, backwards, forward and right, forward and left, back and right, back and left, turn the wheels right, or turn them left). Final report [here](https://github.com/fernandoaestrella/Motion-Controlled-RC-Car/blob/master/Motion%20Controlled%20RC%20Car/Reporte%20Final.pdf) (in Spanish).
+
+<img src="images/accelerometer.png?raw=true"/>
 
 ---
 
