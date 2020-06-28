@@ -1,6 +1,6 @@
 title: Fernando Estrella # your name (or website title) here
 logo: "/images/profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <a href="https://www.linkedin.com/in/fernandoaestrella/">LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/fernandoaestrella/">LinkedIn Profile</a> <br>
   <span style='font-size: 9px'>I want to help solve big problems efficiently. I believe big problems have similar roots. That's why I understand, for now, that if I end up improving people's psychological and/spiritual wellbeing, many more things will fall into place.</style>
 theme: jekyll-theme-minimal
