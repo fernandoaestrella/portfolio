@@ -18,13 +18,15 @@ This state machine shows the different states the client needed the application 
 
 <img src="images/scheduler-state-machine.jpg?raw=true"/>
 
-I then lead the team that developed the front end pages displayed below, and made the mockup for the first one. I set up and managed a Vagrant virtual environment that could be replicated in any machine, facilitating new members getting up to speed with the project and avoiding problems with the environment used to develop, later on. I also performed other managerial duties like give status of the project, find support, coordinate and attend continuous meetings with stakeholders, etc.
+I then lead the team that developed the front end pages displayed below, and made the mockup for the first one.
 
 <img src="images/schedulerA.png?raw=true"/>
 
 <img src="images/schedulerB.png?raw=true"/>
 
 <img src="images/scheduler-home.png?raw=true"/>
+
+I set up and managed a Vagrant virtual environment that could be replicated in any machine, facilitating new members getting up to speed with the project and avoiding problems with the environment used to develop, later on. I also performed other managerial duties like give status of the project, meet with the team as needed and with the members needed, find support, coordinate and attend continuous meetings with stakeholders, etc.
 
 Due to the COVID-19 pandemic, many team members had to abruptly return back home. I am coding the Back End so that a Node.js server connects with the database and communicates with the Front End through a server running React, as shown in the following code:
 
@@ -40,7 +42,7 @@ In a  team of 4, we created Clef in Ruby on Rails. Clef is an online platform fo
 
 My contributions:
 
-I focused mainly on search, progress report, autoscroll and the course display page (some shown below). Find it here: [Course viewer](https://github.com/jufer002/clef/blob/master/app/views/courses/_course_viewer.html.erb). I also gave suggestions on and created some UI features.
+I focused mainly on search, progress report, autoscroll and the course display page (some shown below). Find it here: [Course viewer](https://github.com/jufer002/clef/blob/master/app/views/courses/_course_viewer.html.erb). I also gave suggestions on and created some UI elements/features.
 
 <img src="images/clef.png?raw=true"/>
 
@@ -50,7 +52,7 @@ I focused mainly on search, progress report, autoscroll and the course display p
 
 ### [Facebook Post Generator](https://github.com/fernandoaestrella/nlp-final-project) (Fall of 2019)
 
-Natural Language Processing project done in Python as a team of 3 where we applied Machine Learning to determine the sentiment a given article might carry and then created a possible response someone could have to it by mixing a summary of the article, the sentiment, and some randomization.
+Natural Language Processing project done in Python as a team of 3 where we applied Machine Learning to determine the sentiment a given input article might carry (chosen as the first article found on a subject given by the user) and then created a possible response someone could have to it by mixing a summary of the article, the sentiment, and some randomization.
 
 My contributions:
 
