@@ -114,6 +114,8 @@ or start a new thread.
 
 <img src="images/poster11.png?raw=true"/>
 
+---
+
 ### [Low-Cost, Low-Weight Telepresence Device](https://www.dropbox.com/sh/hmedamt5jmw2cwx/AAAx05Mv4IYWZDVO-P1pUcCya?dl=0) (2015)
 
 As part of the final project to opt for the title of Electronic Engineer, independently planned and built a low-cost, low-weight telepresence solution based on a Raspberry Pi, distance sensors, and Internet connection. A user could connect remotely to a server running in the Raspberry Pi to control its movement. He could also receive a video feed from it, and could send video of him or herself to an Android device placed near to the Pi. The device also sensed obstacles to its front and back, and would back off in the appropriate direction when it found one.
