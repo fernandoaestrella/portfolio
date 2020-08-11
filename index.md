@@ -60,7 +60,7 @@ Mainly adapted base sentiment analysis code to work with the possible input arti
 
 ---
 
-### [Poster Review mobile]() (Spring of 2019)
+### Poster Review mobile (Spring of 2019)
 
 As the final project for a course on UI design for learning (Technology and the Learning Sciences), I designed a platform for collaborative review and viewing of posters.
 
