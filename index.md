@@ -60,6 +60,60 @@ Mainly adapted base sentiment analysis code to work with the possible input arti
 
 ---
 
+### [Poster Review mobile]() (Spring of 2019)
+
+As the final project for a course on UI design for learning (Technology and the Learning Sciences), I designed a platform for collaborative review and viewing of posters.
+
+Users give feedback to each other by looking at a poster on their phone,
+
+<img src="images/poster1.png?raw=true"/>
+
+zooming in or scrolling if necessary, 
+
+<img src="images/poster2.png?raw=true"/>
+
+tapping on something,
+
+<img src="images/poster3.png?raw=true"/>
+
+and leaving feedback on it.
+
+<img src="images/poster4.png?raw=true"/>
+
+<img src="images/poster5.png?raw=true"/>
+
+Giving and receiving feedback have the same interface.
+
+Feedback can be video, audio, image or text. This would help explain their ideas more easily.
+
+<img src="images/poster6.png?raw=true"/>
+
+They can read other feedback so they don’t repeat the same thing
+
+and can leave general feedback for the whole poster.
+
+<img src="images/poster7.png?raw=true"/>
+
+Any post can have nested replies. This makes discussion easy to follow.
+
+<img src="images/poster8.png?raw=true"/>
+
+This way they can give and receive feedback, anywhere, at any time, without needing a wall or the actual poster.
+
+Also, this way they are not constrained to give any specific feedback that might limit them.
+
+In case they have a wall near them, they can activate an AR mode that would allow them to more effectively give feedback on the size of the elements of the poster and their arrangement.
+
+<img src="images/poster9.png?raw=true"/>
+
+They could tap one of the elements of the poster and go to the corresponding discussion thread
+
+<img src="images/poster10.png?raw=true"/>
+
+or start a new thread.
+
+<img src="images/poster11.png?raw=true"/>
+
 ### [Low-Cost, Low-Weight Telepresence Device](https://www.dropbox.com/sh/hmedamt5jmw2cwx/AAAx05Mv4IYWZDVO-P1pUcCya?dl=0) (2015)
 
 As part of the final project to opt for the title of Electronic Engineer, independently planned and built a low-cost, low-weight telepresence solution based on a Raspberry Pi, distance sensors, and Internet connection. A user could connect remotely to a server running in the Raspberry Pi to control its movement. He could also receive a video feed from it, and could send video of him or herself to an Android device placed near to the Pi. The device also sensed obstacles to its front and back, and would back off in the appropriate direction when it found one.
